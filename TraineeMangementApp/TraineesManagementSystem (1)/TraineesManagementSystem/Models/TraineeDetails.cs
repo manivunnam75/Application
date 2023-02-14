@@ -56,7 +56,8 @@ namespace TraineesManagementSystem.Models
         public string DateOfBirth { get; set; }
 
         public string ProfilePic { get; set; }
-
+         
+        public bool Ischeck { get; set; }
 
        
 
